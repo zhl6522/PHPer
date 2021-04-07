@@ -12,3 +12,6 @@
 ## Database 学习资料(漫画)
 [Database](https://github.com/zhl6522/database)
 
+
+## Other 其他内容
+[Other](https://github.com/zhl6522/other)
